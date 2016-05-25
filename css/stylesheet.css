@@ -1,0 +1,26 @@
+.title{
+  color: #05AFF0;
+  text-align: justify;
+}
+
+li{
+  
+  text-shadow: 0
+}
+
+h1 {
+  color: #060B0D;
+  text-align: center;
+}
+.interest{
+  text-align: center;
+  color: green;
+}
+.education{
+  text-align: left;
+  color: blue;
+}
+.work{
+  text-align: right;
+  color: red;
+}
